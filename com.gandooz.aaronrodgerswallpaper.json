@@ -1,8 +1,8 @@
 {
   "Ads": [
     {
-      "select_ads": "APPLOVIN",
-      "select_backup_ads": "APPLOVIN",
+      "select_ads": "MOPUB",
+      "select_backup_ads": "MOPUB",
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.gandooz.ngetestanthonydaviswallpaper",
       "admob_interid": "",
@@ -12,8 +12,8 @@
       "startappid": "206783879",
       "fan_inter": "218010952576562_218011009243223",
       "fan_banner_native": "218010952576562_218011015909889",
-      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
-      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "mopub_banner": "e524c767d55b463d84a2b7311a0d8e04",
+      "mopub_inter": "c10fe2a2df694f988d433d013d88ed22",
       "applovin_banner": "5268da2196819556",
       "applovin_inter": "05a8d84ff249ed81",
       "packagename": "com.gandooz.aaronrodgerswallpaper"
